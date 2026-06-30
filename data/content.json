@@ -1,0 +1,147 @@
+{
+  "site": {
+    "brand": "The Culinary.Studio",
+    "title": "The Culinary Studio | Catering, Grazing Boards & Events in El Paso",
+    "description": "Custom catering, charcuterie grazing boards, heat-and-serve meals, and a private event venue in El Paso, Texas. Voted Best of the Border.",
+    "domain": "culinary-studio-ep-site.vercel.app",
+    "email": "info@theculinarystudioep.com"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/culinarystudioep/",
+    "tiktok": "",
+    "youtube": "",
+    "snapchat": "",
+    "shopmy": "",
+    "cashapp": "",
+    "venmo": "",
+    "paypal": "",
+    "wishlist": "",
+    "facebook": "https://www.facebook.com/culinarystudioep/"
+  },
+  "stats": [
+    { "n": "2024", "l": "BEST OF THE BORDER" },
+    { "n": "23K+", "l": "ON INSTAGRAM" },
+    { "n": "EP", "l": "EL PASO, TEXAS" },
+    { "n": "Custom", "l": "CATERING & EVENTS" }
+  ],
+  "marquee": [
+    "Custom Catering",
+    "Grazing Boards",
+    "Heat & Serve Meals",
+    "Event Venue",
+    "Food Truck",
+    "Gourmet Market",
+    "Bar Services",
+    "El Paso"
+  ],
+  "home": {
+    "kicker": "EL PASO, TEXAS",
+    "h1line1": "THE CULINARY",
+    "h1line2": "STUDIO",
+    "sub_bold": "Custom catering, grazing boards, and a private event venue in El Paso.",
+    "sub_rest": "Voted Best of the Border. We cook everything to order and handle the setup, so you get to enjoy your own party.",
+    "portrait": "/assets/hero.jpg",
+    "portraitTag": "GRAZE ON",
+    "portraitTagSub": "BEST OF THE BORDER",
+    "primaryCtaLabel": "Request Catering",
+    "ghostCtaLabel": "See More on Instagram",
+    "workEyebrow": "WHAT WE DO",
+    "workTitle": "FROM OUR KITCHEN TO YOUR TABLE",
+    "blocks": []
+  },
+  "pages": {
+    "modeling": {
+      "nav": "Boards",
+      "eyebrow": "OUR SIGNATURE",
+      "title": "GRAZING BOARDS",
+      "intro": "Our charcuterie and grazing boards are built to order with premium meats and cheeses, fresh seasonal fruit and veggies, and house preserves. Pick one up for date night or let us build a full grazing table for your event.",
+      "videoId": "",
+      "videoCaption": "",
+      "gallery": [
+        { "src": "/media/board_1.jpg", "alt": "Charcuterie grazing board with meats, cheeses, and fruit", "caption": "CHARCUTERIE BOARD" },
+        { "src": "/media/board_2.jpg", "alt": "Dessert grazing board with sweets and fresh fruit", "caption": "DESSERT BOARD" },
+        { "src": "/media/board_3.jpg", "alt": "Seasonal grazing board spread", "caption": "SEASONAL BOARD" }
+      ],
+      "ctaLabel": "ORDER A BOARD",
+      "blocks": []
+    },
+    "acting": {
+      "nav": "Meals",
+      "eyebrow": "READY WHEN YOU ARE",
+      "title": "HEAT & SERVE MEALS",
+      "intro": "Family meals and trays made fresh in our kitchen, ready to heat and serve at home. From brisket and prime rib bundles to sandwich and pinwheel trays, it tastes homemade because it is.",
+      "videoId": "",
+      "videoCaption": "",
+      "gallery": [
+        { "src": "/media/meal_1.jpg", "alt": "Sliced brisket", "caption": "BRISKET BUNDLE" },
+        { "src": "/media/meal_2.jpg", "alt": "Sandwich tray", "caption": "SANDWICH TRAY" },
+        { "src": "/media/meal_3.jpg", "alt": "Pinwheel tray", "caption": "PINWHEEL TRAY" }
+      ],
+      "ctaLabel": "SEE WHAT'S COOKING",
+      "blocks": []
+    },
+    "content-creation": {
+      "nav": "Catering",
+      "eyebrow": "FOR EVERY OCCASION",
+      "title": "CATERING & EVENTS",
+      "intro": "Weddings, showers, business lunches, birthdays, and more. We cater the food, pour the bar, and can host you in our private event space. You do not have to book our catering to use our coordination and setup either.",
+      "videoId": "",
+      "videoCaption": "",
+      "gallery": [
+        { "src": "/media/event_1.jpg", "alt": "Full grazing table spread for an event", "caption": "GRAZING TABLES" },
+        { "src": "/media/event_2.jpg", "alt": "Bar service with signature drinks at an event", "caption": "BAR SERVICES" },
+        { "src": "/media/event_3.jpg", "alt": "Chocolate fondue dessert station", "caption": "DESSERT STATIONS" }
+      ],
+      "ctaLabel": "REQUEST CATERING",
+      "blocks": []
+    },
+    "about": {
+      "nav": "About",
+      "eyebrow": "OUR STORY",
+      "title": "ABOUT US",
+      "heroImage": "/media/about_hero.jpg",
+      "big": "Real food.|Made to order.|El Paso proud.",
+      "paragraphs": [
+        "The Culinary Studio is an El Paso gourmet market, catering company, and bistro with a private event venue. We are best known for our grazing boards and full-service catering, and in 2024 our neighbors voted us Best Caterer in the Community's Choice Best of the Border awards.",
+        "Everything is cooked to order by our team, from heat-and-serve family meals to grazing tables that anchor a whole party. Tell us the occasion and we will take it from there. Reach us at info@theculinarystudioep.com or stop by the studio on Shadow Mountain Drive."
+      ],
+      "pills": [
+        "CUSTOM CATERING",
+        "GRAZING BOARDS",
+        "EVENT VENUE",
+        "FOOD TRUCK",
+        "GOURMET MARKET"
+      ],
+      "videoId": "",
+      "videoCaption": "",
+      "guide": {
+        "eyebrow": "ON THE MOVE",
+        "title": "BOOK THE FOOD TRUCK",
+        "body": "Want us at your spot? Reserve our food truck for your next event and our team handles the rest while you enjoy the party.",
+        "image": "/assets/guide.jpg",
+        "ctaLabel": "RESERVE THE TRUCK",
+        "ctaHref": "mailto:info@theculinarystudioep.com?subject=Food%20Truck%20Reservation"
+      },
+      "partner": { "code": "", "text_pre": "", "text_rest": "", "ctaLabel": "", "ctaHref": "" },
+      "blocks": []
+    },
+    "contact": {
+      "nav": "Contact",
+      "eyebrow": "GET IN TOUCH",
+      "title": "Let's plan your event",
+      "intro": "Tell us about your event or order and we will help you build the menu. Email info@theculinarystudioep.com, call (915) 282-5172, or visit us at 126 Shadow Mountain Drive, Suite F & G, El Paso, TX 79912.",
+      "connectEyebrow": "Find Us",
+      "blocks": []
+    }
+  },
+  "promoLinks": [],
+  "booking": {
+    "eyebrow": "GET STARTED",
+    "title": "Cater your next event",
+    "intro": "Ready to eat well? Send us your event details through the catering form, give us a call, or message us on Instagram and we will take it from there.",
+    "ctaLabel": "Request Catering",
+    "url": "https://theculinarystudioep.com/pages/custom-catering-form",
+    "phone": "(915) 282-5172",
+    "note": "126 Shadow Mountain Drive, Suite F & G, El Paso, TX 79912"
+  }
+}
