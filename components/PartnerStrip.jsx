@@ -1,6 +1,6 @@
 import Edit from './Edit';
 export default function PartnerStrip({ partner }) {
-  if (!partner) return null;
+  if (!partner || (!partner.code && !partner.text_pre && !partner.text_rest && !partner.ctaLabel)) return null;
   return (
     <section className="block" style={{ paddingTop: 0 }}>
       <div className="wrap">
